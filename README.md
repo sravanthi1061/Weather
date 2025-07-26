@@ -12,9 +12,11 @@ The app features two pages: a main input screen and a dynamic result display sho
 ## 🖼️ Screenshots
 
 ### Main Page
-[public/images/main_page.png]
+![Main Page](https://raw.githubusercontent.com/sravanthi1061/Weather/main/public/images/main_page.png)
+
 ### Result Page
-[public/images/weather.png]
+![Result Page](https://raw.githubusercontent.com/sravanthi1061/Weather/main/public/images/weather.png)
+
 
 ## 🚀 Technologies Used
 - HTML
