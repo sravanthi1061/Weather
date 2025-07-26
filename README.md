@@ -26,9 +26,10 @@ The app features two pages: a main input screen and a dynamic result display sho
 
 ## 📦 Setup Instructions
 1. Clone the repository
-2. Run this command 'nodemon app.js'
-3. Opens `index.html` in your browser
-4. Enter a city name and view the weather details
+2. set up node(install node modules)
+3. Run this command 'nodemon app.js'
+4. Opens `index.html` in your browser
+5. Enter a city name and view the weather details
 
 ---
 
